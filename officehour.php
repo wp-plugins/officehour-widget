@@ -155,7 +155,7 @@ class OfficeHour_Widget extends WP_Widget
         </p>
         
         <p>
-                <label for='<?php echo $this->get_field_id('button-text-color'); ?>'>Couleur du texte du boutton (hex)</label>
+                <label for='<?php echo $this->get_field_id('button-text-color'); ?>'>Couleur du texte du bouton (hex)</label>
                 <br/>
                 #<input value='<?php echo $this->issetNotEmpty_Tool($d,'button-text-color'); ?>'  name='<?php echo $this->get_field_name('button-text-color'); ?>' id='<?php echo $this->get_field_id('button-text-color'); ?>' type='text'/>
         </p>
@@ -165,7 +165,7 @@ class OfficeHour_Widget extends WP_Widget
                 #<input value='<?php echo $this->issetNotEmpty_Tool($d,'background-color'); ?>'  name='<?php echo $this->get_field_name('background-color'); ?>' id='<?php echo $this->get_field_id('background-color'); ?>' type='text'/>
         </p>
         <p>
-                <label for='<?php echo $this->get_field_id('button-text'); ?>'>Texte du boutton (hex)</label>
+                <label for='<?php echo $this->get_field_id('button-text'); ?>'>Texte du bouton (hex)</label>
                 <br/>
                 <input value='<?php echo $this->issetNotEmpty_Tool($d,'button-text'); ?>'  name='<?php echo $this->get_field_name('button-text'); ?>' id='<?php echo $this->get_field_id('button-text'); ?>' type='text'/>
         </p>
