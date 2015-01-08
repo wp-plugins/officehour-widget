@@ -32,5 +32,5 @@ Rendez-vous dans votre compte OfficeHour pour obtenir votre nom d'utilisateur : 
 == Screenshots ==
 
 1. OfficeHour Widget dans la sidebar
-2. OfficeHour Widget dans le footer
-3. Configuration du Widget
+2. Configuration du Widget
+3. OfficeHour Widget dans le footer
