@@ -3,7 +3,7 @@
 Plugin Name: OfficeHour Widget
 Plugin URI: http://www.officehour.fr
 Description: Widget OfficeHour pour intégrer le profil d'un expert OfficeHour sur votre blog WordPress
-Version: 0.1
+Version: 1.0.2
 Author: OfficeHour
 Author URI: http://www.officehour.fr
 License: GPL2
