@@ -3,6 +3,7 @@ Contributors: guillaumewarckol
 Tags: officehour, officehour widget, plugin officehour, widget office hour, widget office hours, plugin office hour, plugin office hours
 Requires at least: 3.0.1
 Tested up to: 4.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,5 +33,5 @@ Rendez-vous dans votre compte OfficeHour pour obtenir votre nom d'utilisateur : 
 == Screenshots ==
 
 1. OfficeHour Widget dans la sidebar
-2. OfficeHour Widget dans le footer
-3. Configuration du Widget
+2. Configuration du Widget
+3. OfficeHour Widget dans le footer
