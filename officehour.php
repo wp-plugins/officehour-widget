@@ -81,7 +81,7 @@ class OfficeHour_Widget extends WP_Widget
             <?php } ?>
         </a>
 
-        <script src='http://www.officehour.fr/widget/script.js/expert' type='text/javascript'></script>
+        <script src='https://www.officehour.fr/widget/script.js/expert' type='text/javascript'></script>
         <?php
         }
         
